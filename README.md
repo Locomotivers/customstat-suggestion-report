@@ -1,3 +1,6 @@
+# YOU CAN FOLLOW CURRENT STAGE OF PROJECT
+[Here](https://github.com/users/Locomotivers/projects/1)
+
 # Public Customstat Repo for Suggestion & Report 
 This repository will be served holding for public feature suggestion and bug report. I also made template for bug and suggestion so user can report it faster. Start a [New issue!](https://github.com/Locomotivers/customstat-suggestion-report/issues/new)
 
